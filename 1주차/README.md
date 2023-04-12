@@ -9,6 +9,6 @@ https://www.acmicpc.net/problem/2960
 
 https://www.acmicpc.net/problem/2501
 
-https://www.acmicpc.net/problem/1449
+[https://www.acmicpc.net/problem/2748](https://www.acmicpc.net/problem/2748)
 
-https://www.acmicpc.net/problem/1463
+[https://www.acmicpc.net/problem/24416](https://www.acmicpc.net/problem/24416)
